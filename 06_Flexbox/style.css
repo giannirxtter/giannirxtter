@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(to right, black, blue);
+}
+
+.box {
+  font-size: 30px;
+  color: white;
+  background-image: linear-gradient(to right, black, blue);
+  width: 70px;
+  height: 80px;
+  margin: 10px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.699);
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
