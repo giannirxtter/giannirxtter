@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /* ELEMENT Selektor  */
 div{
@@ -12,4 +13,20 @@ div{
 /* Klassenselector */
 .subtitle{
     color:blue;
+=======
+
+/* ELEMENT Selektor  */
+div{
+    background-color: aquamarine
+}
+
+/* id selektor */
+#header{
+    font-size: 2rem;
+}
+
+/* Klassenselector */
+.subtitle{
+    color:blue;
+>>>>>>> 693522f8b9d2e458596aede2e68418c933eeb328
 }

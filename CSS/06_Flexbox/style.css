@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-image: linear-gradient(to right, black, blue);
 }
@@ -19,3 +20,26 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+=======
+body {
+  background-image: linear-gradient(to right, black, blue);
+}
+
+.box {
+  font-size: 30px;
+  color: white;
+  background-image: linear-gradient(to right, black, blue);
+  width: 70px;
+  height: 80px;
+  margin: 10px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.699);
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+>>>>>>> 693522f8b9d2e458596aede2e68418c933eeb328
