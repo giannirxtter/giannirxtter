@@ -17,3 +17,4 @@ const readLineAsync = () => {
 console.log("Enter your name");
 let inputOfUser = await readLineAsync();
 console.log("Your name is" + inputOfUser);
+console.log("test");
